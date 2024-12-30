@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="dev.abunai.evaluationscenario.maas.feature">
+      <category name="dev.abunai.evaluationscenario.maas.category"/>
+   </feature>
+   <category-def name="dev.abunai.evaluationscenario.maas.category" label="ABUNAI Mobility as a Service Evaluation Scenario">
+   </category-def>
+</site>
+
